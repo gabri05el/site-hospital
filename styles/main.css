@@ -192,3 +192,9 @@
         margin: 1rem;
     }
 }
+
+@media(max-width: 500px) {
+    .conteudo__final {
+        background-image: none;        
+    }
+}
